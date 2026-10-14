@@ -17,7 +17,7 @@
     "check": "node --check electron/main.js && node --check electron/preload.js && node --check worker/worker.js && cat app/app.js | node --input-type=module --check && cat app/lib/messaging.js | node --input-type=module --check"
   },
   "dependencies": {
-    "@capacitor/android": "^8.5.2",
+    "@capacitor/android": "^8.5.3",
     "@capacitor/core": "^8.5.2"
   },
   "devDependencies": {
