@@ -22,8 +22,8 @@
   },
   "devDependencies": {
     "@capacitor/cli": "^8.5.2",
-    "electron": "^33.2.0",
-    "electron-builder": "^25.1.8"
+    "electron": "^42.11.16",
+    "electron-builder": "^26.18.0"
   },
   "build": {
     "appId": "com.museai.agentchat",
