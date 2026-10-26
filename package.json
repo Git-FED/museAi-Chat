@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@capacitor/cli": "^8.5.2",
-    "electron": "^33.2.0",
+    "electron": "^45.0.0",
     "electron-builder": "^25.1.8"
   },
   "build": {
